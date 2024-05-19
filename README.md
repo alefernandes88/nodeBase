@@ -1,2 +1,2 @@
 # nodeBase
-Node + express + eslint + sucrise + nodemon
+Node + express + eslint + sucrise + nodemon + TS
